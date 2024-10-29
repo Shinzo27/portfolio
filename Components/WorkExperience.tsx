@@ -10,24 +10,24 @@ interface WorkExperienceItem {
 
 const workExperienceData: WorkExperienceItem[] = [
   {
-    startDate: "August 2024",
-    endDate: "Present",
-    companyName: "Topo",
-    jobTitle: "Senior Software Engineer",
+    startDate: "June 2024",
+    endDate: "July 2024",
+    companyName: "Codsoft",
+    jobTitle: "Full stack developer intern",
     description: [
-      "Building AI SDRs and training them to help sales teams close deals faster.",
+      "Built a full stack application using React, Node.js, MongoDB and Tailwind CSS for a web-based platform.", 
+      "Developed a responsive and user-friendly interface for managing tasks, projects, and team members.",
+      "Implemented advanced features such as drag and drop functionality, task dependencies, and customizable task statuses.",
     ],
   },
   {
-    startDate: "December 2023",
+    startDate: "July 2024",
     endDate: "August 2024",
-    companyName: "Artisan AI",
-    jobTitle: "Senior Software Engineer",
+    companyName: "Prodigy Infotech",
+    jobTitle: "Full stack developer intern",
     description: [
-      "Spearheaded the integration of multiple CRMs including HubSpot and Salesforce into the platform, enhancing lead management efficiency.",
-      "Achieved a remarkable 99% improvement in email deliverability through meticulous optimization strategies.",
-      "Implemented advanced techniques to enhance email quality and refine email filtering mechanisms, resulting in a more streamlined communication process.",
-      "Developed comprehensive analytics infrastructure, enabling real-time monitoring and analysis of all lead and email-related activities within the platform.",
+      "Developed a responsive and user-friendly interface for managing tasks, projects, and team members.",
+      "Built a full stack application using React, Next.js, and Tailwind CSS for a web-based platform.",
     ],
   },
 ];

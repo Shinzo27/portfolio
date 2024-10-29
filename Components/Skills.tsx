@@ -12,12 +12,19 @@ const skillsData = [
   "Express",
   "MongoDB",
   "PostgreSQL",
+  "Prisma",
   "MySQL",
   "Docker",
   "AWS",
   "Python",
   "FastAPI",
   "RESTful APIs",
+  "Redis",
+  "C++",
+  "Java",
+  "Socket.io",
+  "Shadcn",
+  "Kubernetes",
 ];
 
 const Skills = () => {
