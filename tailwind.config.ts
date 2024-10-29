@@ -12,6 +12,7 @@ const config: Config = {
 		fontFamily: {
 			'melody': ['Bl-Melody', 'sans-serif'],
 			'melody-bold': ['BL-Melody-700', 'sans-serif'],
+			'sequel': ['Sequel100Wide95', 'sans-serif'],
 		},
   		colors: {
   			background: 'hsl(var(--background))',
