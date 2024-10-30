@@ -4,10 +4,10 @@ import Image from "next/image";
 
 const Intro = () => {
   return (
-    <div className="w-full flex flex-col-reverse lg:flex-row gap-14 justify-between items-center -z-10 font-sequel">
+    <div className="w-full flex flex-col-reverse lg:flex-row gap-14 justify-between items-center font-sequel z-10">
       <div className="flex flex-col gap-2 w-full lg:w-4/5">
-        <h1 className="text-4xl font-bold mb-4">Hi, I&apos;m Pratham.</h1>
-        <p className="text-base text-white text-justify">
+        <h1 className="text-4xl font-bold mb-4 z-10">Hi, I&apos;m Pratham.</h1>
+        <p className="text-base text-white text-justify z-10">
           Motivated and detail-oriented full stack developer with hands-on
           experience in building and deploying scalable web applications. Proven
           ability to develop both frontend and backend solutions, manage
@@ -24,7 +24,7 @@ const Intro = () => {
           alt="Me"
           width={160}
           height={160}
-          className="border-2 border-gray-100 rounded-full object-cover"
+          className="border-2 border-gray-100 rounded-full object-cover z-10"
         />
       </div>
     </div>
