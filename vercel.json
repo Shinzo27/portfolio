@@ -4,6 +4,6 @@
         "NODE_ENV": "production"
       }
     },
-    "buildCommand": "next build && next export",
+    "buildCommand": "next build",
     "outputDirectory": "out"
 }
