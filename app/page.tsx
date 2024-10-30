@@ -1,11 +1,11 @@
-import Education from "@/Components/Education";
-import GetInTouch from "@/Components/GetInTouch";
-import Intro from "@/Components/Intro";
-import Projects from "@/Components/Projects";
-import Skills from "@/Components/Skills";
+import Education from "@/Components/education";
+import GetInTouch from "@/Components/getintouch";
+import Intro from "@/Components/intro";
+import Projects from "@/Components/projects";
+import Skills from "@/Components/skills";
 import Meteors from "@/Components/ui/meteors";
 import { Spotlight } from "@/Components/ui/spotlight";
-import WorkExperience from "@/Components/WorkExperience";
+import WorkExperience from "@/Components/workexperience";
 
 export default function Home() {
   return (
