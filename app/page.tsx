@@ -6,6 +6,7 @@ import Skills from "@/Components/Skills";
 import Meteors from "@/Components/ui/meteors";
 import { Spotlight } from "@/Components/ui/spotlight";
 import WorkExperience from "@/Components/WorkExperience";
+import '@/app/globals.css'
 
 export default function Home() {
   return (
