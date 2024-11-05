@@ -8,7 +8,7 @@ const projectsData = [
         "Learnlive is a platform that users can come and learn the latest technologies and programming languages.",
       link: "https://github.com/Shinzo27/LearnLive.git",
       code: "https://github.com/Shinzo27/LearnLive.git",
-      previewVideo: "/videos/learnlive.mp4",
+      previewVideo: "/videos/LearnLive.mp4",
       technologies: [
         "Next.js",
         "PostgreSQL",
