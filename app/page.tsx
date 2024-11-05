@@ -22,7 +22,7 @@ export default function Home() {
         <Education/>
         <WorkExperience />
         <Skills/>
-        {/* <Projects/> */}
+        <Projects/>
         <GetInTouch/>
       </main>
     </div>
